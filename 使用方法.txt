@@ -1,0 +1,5 @@
+此文件为ja-netfilter.jar目录文件
+写到Help->Edit custorm vm options..中
+-javaagent:D:\Program Files\ja-netfilter-all\ja-netfilter.jar=jetbrains
+
+然后用注册激活码激活即可。
